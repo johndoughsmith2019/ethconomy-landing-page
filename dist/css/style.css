@@ -1189,7 +1189,7 @@ button,input,select,textarea,label{
     padding-bottom:108px
 }
 .testimonials .section-title{
-    margin-bottom:72px
+    /* margin-bottom:72px */
 }
 .testimonials-shape{
     position:absolute
@@ -1221,8 +1221,8 @@ button,input,select,textarea,label{
 .testimonial{
     position:relative;
     padding:44px 16px 16px;
-    width:388px;
-    max-width:388px;
+    /* width:388px; */
+    /* max-width:388px; */
     flex-grow:1
 }
 .testimonial-inner{
@@ -1231,7 +1231,7 @@ button,input,select,textarea,label{
     display:flex;
     flex-wrap:wrap;
     background:#fff;
-    padding:52px 24px 24px
+    /* padding:52px 24px 24px */
 }
 .testimonial-inner>*{
     width:100%
@@ -1271,7 +1271,7 @@ button,input,select,textarea,label{
         padding-bottom:166px
     }
     .testimonials .section-title{
-        margin-bottom:126px
+        /* margin-bottom:126px */
     }
     .testimonials-wrap{
         margin-right:-24px;
@@ -1284,7 +1284,7 @@ button,input,select,textarea,label{
         margin-bottom:-24px
     }
     .testimonial{
-        padding:52px 24px 24px
+        padding:12px 24px 24px
     }
     .testimonials-shape-1{
         bottom:auto;
